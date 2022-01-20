@@ -45,6 +45,4 @@ $ yarn start:dev
 $ yarn start:prod
 ```
 
-<hr>
-
 Made with ❤ :hearts: by **[Marcus Oliveira](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)**
