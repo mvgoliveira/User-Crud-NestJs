@@ -25,4 +25,4 @@ $ yarn start:dev
 $ yarn start:prod
 ```
 
-Made with ❤ by **[Marcus Oliveira](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)**
+Made with ♥️ by **[Marcus Oliveira](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)**
